@@ -5,7 +5,7 @@ cd Téléchargements/kafka_2.12-3.9.0/
 
 bin/kafka-storage.sh random-uuid
 
-bin/kafka-storage.sh format -t <uid> -c config/kraft/server.properties
+bin/kafka-storage.sh format -t 8i8O1MBaT7qAzQlrNDGghg -c config/kraft/server.properties
 
 bin/kafka-server-start.sh config/kraft/server.properties
 
