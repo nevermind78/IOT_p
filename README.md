@@ -10,6 +10,8 @@ bin/kafka-storage.sh format -t 8i8O1MBaT7qAzQlrNDGghg -c config/kraft/server.pro
 bin/kafka-server-start.sh config/kraft/server.properties
 
 
+
+
 ## lancement hadoop
 
 start-dfs.sh
