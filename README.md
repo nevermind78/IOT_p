@@ -16,7 +16,9 @@ start-dfs.sh
 
 ## lancement de kassandra
 
-apache-cassandra-4.1.7
+cd apache-cassandra-4.1.7
+bin/cassndra
+
 
 
 ## vérification 
