@@ -21,7 +21,15 @@ start-dfs.sh
 cd apache-cassandra-4.1.7
 bin/cassndra
 
+## exécution
 
+cd /home/nevermind/Documents/p
+python sensors_data_receiver.py 
+python sensors_data_sender.py
+
+python hdfs_read.py
+
+python data_preprocess.py
 
 ## vérification 
 
