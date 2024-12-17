@@ -1,7 +1,7 @@
 # IOT_p
 
 ## lancement de kafka
-cd Téléchargements/kafka_2.12-3.9.0/
+cd ~/Téléchargements/kafka_2.12-3.9.0/
 
 bin/kafka-storage.sh random-uuid
 
@@ -18,7 +18,7 @@ start-dfs.sh
 
 ## lancement de kassandra
 
-cd apache-cassandra-4.1.7
+cd ~/apache-cassandra-4.1.7
 bin/cassndra
 
 ## exécution
